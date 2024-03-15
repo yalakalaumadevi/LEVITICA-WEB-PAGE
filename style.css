@@ -1,0 +1,417 @@
+.aa{
+    color: white;
+    background-color: rgb(54, 54, 91);
+    height: 40px;
+}
+.aa h6{
+    margin-top: 10px;
+}
+.aa i{
+    margin-top: 20px;
+}
+/* section2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.bb a{
+    margin-left: 50px;
+
+}
+.bb a button{
+    border-radius: 10px;
+    margin-top: -30px;
+    border-color: rgb(95, 95, 173);
+background-color: rgb(54, 54, 91);
+color: white;
+}
+.bb button:hover{
+    border: black;
+    background-color: black;
+}
+/* section3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.uma
+{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images/edcuuu1.jpg");
+  background-position: fixed;
+  height:450px;
+  width: 100%;
+}
+.uma button{
+    border-radius: 10px;
+    margin-top: 70px;
+    color: rgb(250, 250, 248);
+    background-color:rgb(96, 84, 162);
+    padding: 5px 10px 5px 10px;
+}
+.uma button:hover{
+    background-color: transparent;
+    border: cornflowerblue;
+}
+.uma button a{
+    background-color: transparent;
+    color: rgb(252, 252, 252);
+}
+.uma h1{
+    margin-top: 10px;
+    color: white;
+    font-size: 50px;
+}
+.uma p{
+    color: white;
+    font-size: 25px;
+}
+/* .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,section4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ss{
+    background-color: rgb(246, 246, 249);
+    color: rgb(14, 14, 14);
+}
+.ss h5{
+    margin-top: 80px;
+    margin-left: 30px;
+
+}
+.ss h1{
+    margin-left: 30px;
+
+}
+.ss i{
+    margin-left: 90px;
+    font-size: 39px;
+    text-align: center;
+}
+.ss h2{
+    margin-left: 30px;
+}
+.ss h6{
+    margin-left: 30px;
+}
+.ss p{
+    margin-left: 30px;
+   
+}
+.rr{
+    margin-left: 30px;
+}
+.rr1{
+    margin-left: 170px;
+}
+.rr i{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 50px;
+}
+.rr1 i{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 30px;
+ 
+}
+.ss img{
+    margin-top: 70px;
+    border-radius: 20px;
+    position: absolute;
+}
+.ss h4{
+    position: relative;
+    z-index: 1;
+    height: 60px;
+    width: 60px;
+    margin-top: 400px;
+    color: white;
+margin-left: 190px;
+}
+/* .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,section5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+
+.card-title {
+    color: #262626;
+    font-size: 1.5em;
+    line-height: normal;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+  }
+  
+  .small-desc {
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: #452c2c;
+  }
+  
+  .small-desc {
+    font-size: 1em;
+  }
+  
+  .go-corner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 2em;
+    height: 2em;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    background: linear-gradient(135deg, #6293c8, #384c6c);
+    border-radius: 0 4px 0 32px;
+  }
+  
+  .go-arrow {
+    margin-top: -4px;
+    margin-right: -4px;
+    color: white;
+    font-family: courier, sans;
+  }
+  
+  .card {
+    display: block;
+    position: relative;
+    max-width: 300px;
+    max-height: 320px;
+    background-color: #f2f8f9;
+    border-radius: 10px;
+    padding: 2em 1.2em;
+    margin: 12px;
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #c3e6ec, #a7d1d9);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .card:before {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: -16px;
+    right: -16px;
+    background: linear-gradient(135deg, #d1d9e1, #384c6c);
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(1);
+    transform-origin: 50% 50%;
+    transition: transform 0.35s ease-out;
+  }
+  
+  .card:hover:before {
+    transform: scale(28);
+  }
+  
+  .card:hover .small-desc {
+    transition: all 0.5s ease-out;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .card:hover .card-title {
+    transition: all 0.5s ease-out;
+    color: #ffffff;
+  }
+  .ww{
+    margin-top: 30px;
+  }
+  .qq{
+    text-align: center;
+}
+  .qq h1{
+    color: rgb(11, 11, 11);
+  }
+  .qq p{
+    color: #0f0e0e;
+  }
+  /* section6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+  .ww i{
+    font-size: 60px;
+  }
+  .ww p{
+    color: white;
+  }
+  .ww{
+    border-color: rgb(176, 176, 232);
+    height: 500px;
+    background-color: rgb(220, 220, 230);
+  }
+  /* section7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+  .kk img{
+    border-radius: 20px;
+    height: 400px;
+    width: 390px;
+    margin-left: 75px;
+    margin-top: 40px;
+    
+  }
+  .kk i{
+    font-size: 30px;
+    margin-top: 290px;
+
+  }
+  .kk h4{
+    margin-top: 20px;
+  }
+  .kk p{
+    margin-top: 10px;
+  }
+.jj h1{
+  margin-top: 50px;
+}
+/* .jj{
+  border: 2px solid red;
+} */
+.hh{
+  border: 1px solid rgb(226, 231, 226);
+  box-shadow: 2px;
+  border-radius: 50px;
+}
+.gitu{
+  margin-top: 5px;
+}
+.jk img{
+  margin-top: 50px;
+  height: 460px;
+  width: 530px;
+  margin-left: 30px;
+  filter: brightness(100%);
+  position: absolute;
+  border-radius: 15px;
+}
+.jk img:hover{
+  filter: brightness(35%);
+}
+.jk  p {
+  position: relative;
+  /* margin-top: 60px; */
+  z-index: 1;
+  margin-left: 50px;
+  color: white;
+}
+.jk h1{
+  position: relative;
+  margin-top: 240px;
+  z-index: 1;
+  margin-left: 50px;
+  color: white;
+
+}
+.jk h6{
+  position: relative;
+  /* margin-top: 60px; */
+  z-index: 1;
+  margin-left: 50px;
+  color: white;
+
+}
+.hh{
+  background-color: rgb(255, 254, 254);
+}
+/* section7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ff h5{
+  margin-top:70px ;
+  color: goldenrod;
+}
+.ff img{
+  margin-top: 70px;
+  margin-left: 30px;
+  border-radius: 20px;
+}
+.avi h2 {
+  margin-top: 70px;
+}
+.ff {
+  background-color: #b0c8e2;
+  color: rgb(11, 4, 4);
+  height: 500px;
+}
+/*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, section8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.nn {
+  text-align: center;
+  background-color: #dde7f1;
+  height: 350px;
+}
+.nn h6{
+  margin-top: 30px;
+}
+.vv{
+  margin-left: 70px;
+  margin-top: 90px;
+  font-size: 40px;
+}
+.v i{
+  font-size: 40px;
+}
+/*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, section9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+
+.bnr{
+	
+	background: url("images/blur.jpg");
+	height: 500px;
+    width: 100%;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.7;
+}
+.zz h3 {
+color: rgb(191, 229, 41);
+margin-top: 40px;
+
+}
+.zz h1{
+  color: white;
+  font-size: 50px;
+}
+.zz {
+  text-align: center;
+}
+.zz i{
+  font-size: 50px;
+  color: white;
+  margin-top: 90px;
+}
+.cc{
+  height: 150px;
+  width: 300px;
+  /* border: 2px solid white; */
+  margin-left: 150px;
+  /* padding-top: 160px; */
+  display: flex;
+}
+.gg{
+  height: 120px;
+  width: 10px;
+  border: 1px solid rgb(180, 234, 80);
+  margin-top: 70px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.cc :hover{
+  border: 1px solid rgb(234, 228, 228);
+  background-color: aquamarine;
+  color: black;
+  
+}
+.gg p{
+  font-size: 30px;
+  color: white;
+}
+/* section10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ch{
+  background-color: #306195;
+  height: 400ppx;
+margin-top: 40px;
+color: white;
+
+}
+.ch h3{
+  margin-top: 40px;
+}
+.bc{
+  margin-top: 90px;
+  color: #0f0e0e;
+}
+.zx{
+  border: 1px solid rgb(230, 233, 230);
+  border-radius: 20px;
+  text-align: center;
+}
+.bc i{
+  font-size: 40px;
+}
+.ch h1{
+  margin-top: 30px ;
+}
